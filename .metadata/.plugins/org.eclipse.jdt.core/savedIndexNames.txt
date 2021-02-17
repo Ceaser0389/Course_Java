@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+C:\Projetos\JavaLoiane\.metadata\.plugins\org.eclipse.jdt.core
+1877314635.index
+2041756187.index
+3538825314.index
+1263180775.index
+741250405.index
+725832060.index
+3460880079.index
+3873139765.index
+3039282399.index
+2573685509.index
+1879373360.index
+2651494172.index

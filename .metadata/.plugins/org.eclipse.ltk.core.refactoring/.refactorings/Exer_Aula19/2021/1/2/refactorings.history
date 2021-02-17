@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;vetorA&apos; in &apos;exer17.exer17.main(...)&apos; to &apos;idades&apos;&#x0D;&#x0A;- Original project: &apos;Exer_Aula19&apos;&#x0D;&#x0A;- Original element: &apos;exer17.exer17.main(String[]).vetorA&apos;&#x0D;&#x0A;- Renamed element: &apos;vetorA&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;vetorA&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;exer17{exer17.java[exer17~main~\[QString;@vetorA!171!196!176!181!\[I!0!false" name="idades" references="true" stamp="1609639856375" version="1.0"/>
+</session>
